@@ -1,0 +1,11 @@
+.pokemon {
+    width: 400px;
+    margin: 20px;
+    background-color: rgba(50,50,50, 0.4);
+    border-radius: 20px;
+
+}
+
+.pokemon * {
+    text-align: center;
+}
